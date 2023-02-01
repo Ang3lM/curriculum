@@ -1,3 +1,4 @@
 database/myapp
 node_modules
 package-lock.json
+.env
